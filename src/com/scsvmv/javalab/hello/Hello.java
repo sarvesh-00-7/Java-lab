@@ -21,4 +21,5 @@ public void wishWithDate(String name) {
 Date today = new Date();
 System.out.println("Hello " + name + " | Date: " + today);
 }
+
 }
